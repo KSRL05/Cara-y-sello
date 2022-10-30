@@ -1,9 +1,9 @@
 package caraysello;
 
 import java.util.Scanner;
-public class AplicaLanzaMoneda {
+public class JuegoCYS {
  
-    public AplicaLanzaMoneda() {
+    public JuegoCYS() {
     }
     public static void main(String []args){
         
